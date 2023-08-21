@@ -1,45 +1,41 @@
 ---
 content_type: page
+description: The Syllabus section contains the information on prerequisites, homework,
+  presentation, and books.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: a363557c-5a41-8b4a-583e-c433058993cb
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Description
------------
+## Description
 
 This course covers the concepts and physical pictures behind various phenomena that appear in interacting quantum many-body systems. Key ideas/techniques to be covered include broken symmetry, effective field theories, functional integral methods, and quantum phase transition theory.
 
 A rough syllabus is:
 
-*   Second quantization; path integrals in quantum mechanics
-*   Interacting bosons - superfluidity
-*   Broken symmetry and its consequences
-*   Low dimensional quantum magnetism
+- Second quantization; path integrals in quantum mechanics
+- Interacting bosons - superfluidity
+- Broken symmetry and its consequences
+- Low dimensional quantum magnetism
 
-Prerequisites
--------------
+## Prerequisites
 
 Quantum Physics II ([8.05](/courses/8-05-quantum-physics-ii-fall-2013)), Statistical Physics II ([8.08](/courses/8-08-statistical-physics-ii-spring-2005)), Relativity ([8.033](/courses/8-033-relativity-fall-2006)) or Classical Mechanics II (8.21), Physics of Solids I ([8.231](/courses/8-231-physics-of-solids-i-fall-2006))
 
-Homework
---------
+## Homework
 
 There will typically be one homework every week which will be due on the same day of the following week. Late homework is strongly discouraged!!
 
-Presentation
-------------
+## Presentation
 
 There will be no final exam - instead there will be a short in-class presentation on a topic of general interest to the material in the course. Specific recommendations for presentation topics will be provided later.
 
-Books
------
+## Books
 
 No single textbook will be used. What follows is a list of books that I find useful. When appropriate, lecture notes or references to review articles/research papers will be provided.
 
