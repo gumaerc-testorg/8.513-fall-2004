@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on excitations, and brief introduction
   to the hiTc problem.
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/03d7090eb0a3434a2ca941e1bc9036db_notes10.pdf
+file_size: 2144944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
