@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on quantum theory, thermodynamics,
   and HiTc superconductivity.
-file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/2cafd67d9ed51262e632283b9a545249_notes1.pdf
+file: /ol-ocw-studio-app/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/2cafd67d9ed51262e632283b9a545249_notes1.pdf
 file_size: 1987795
 file_type: application/pdf
 learning_resource_types:
