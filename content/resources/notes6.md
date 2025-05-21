@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the bose liquid, hamiltorian, small
   fluctuations about the classical minimum, and groud state energy.
-file: /ol-ocw-studio-app/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/0150c40f009df19ea9ff8cd6c8383cc6_notes6.pdf
+file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/0150c40f009df19ea9ff8cd6c8383cc6_notes6.pdf
 file_size: 6341064
 file_type: application/pdf
 learning_resource_types:
