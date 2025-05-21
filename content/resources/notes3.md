@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on eigen value, normalisation, vacuum,
   and wave function.
-file: /ol-ocw-studio-app/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/c8e74b4f00a8eb24c28becddae93fefa_notes3.pdf
+file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/c8e74b4f00a8eb24c28becddae93fefa_notes3.pdf
 file_size: 5883985
 file_type: application/pdf
 learning_resource_types:

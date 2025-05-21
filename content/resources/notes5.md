@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on coherent state path integral, real
   time path integral, superfluidity including eigen states, and annihilation operators.
-file: /ol-ocw-studio-app/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/f558b75473b9657d4b80f0293c0e03ff_notes5.pdf
+file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/f558b75473b9657d4b80f0293c0e03ff_notes5.pdf
 file_size: 6005696
 file_type: application/pdf
 learning_resource_types:
