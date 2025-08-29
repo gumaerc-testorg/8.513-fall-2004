@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on fermi statistics, hall effect,
   and wavefunction.
-file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/77949c25b372491482aeeee7434f4ccc_notes2.pdf
+file: /ol-ocw-studio-app/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/77949c25b372491482aeeee7434f4ccc_notes2.pdf
 file_size: 2064349
 file_type: application/pdf
 learning_resource_types:
